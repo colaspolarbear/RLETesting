@@ -1,0 +1,11 @@
+name: envRLE
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - pandas
+  - sklearn
+  - matplotlib
+  - scipy
+  - statistics
